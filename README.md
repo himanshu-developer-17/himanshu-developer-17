@@ -1,37 +1,47 @@
 <h1 align="center">Hi 👋, I'm Himanshu Khandelwal</h1>
 
 <h3 align="center">
-🚀 Full Stack Software Developer | Frontend • Backend • Database
+🚀 Full Stack Software Developer | JavaScript • React • Node.js • PHP • SQL
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+JS+Developer;Node+JS+Backend+Developer;PHP+Developer;SQL+Database+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;JavaScript+Developer;React.js+Developer;Node.js+Developer;PHP+Developer;SQL+Database+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshu-developer-17">
+    <img src="https://komarev.com/ghpvc/?username=himanshu-developer-17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Software Developer
-- 🎨 Frontend Development
-- ⚙️ Backend Development
-- 🗄️ Database Development
-- 🌱 Currently improving my skills in modern web development
-- ⚡ Passionate about building responsive and scalable web applications
-- 🎯 Focused on writing clean and efficient code
-- 🚀 Always learning new technologies
+I'm a **Full Stack Software Developer** passionate about building modern, responsive and scalable web applications.
+
+- 💻 Full Stack Web Development
+- ⚡ JavaScript is my primary programming language
+- 🎨 Frontend Development with React.js
+- ⚙️ Backend Development with Node.js & PHP
+- 🗄️ Database Development with MySQL & SQL
+- 🔧 Building REST APIs and dynamic web applications
+- 📱 Focused on responsive and user-friendly interfaces
+- 🧠 Interested in learning new technologies
+- 🚀 Always improving my development skills
+- 🎯 Goal: Build clean, scalable and production-ready applications
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
@@ -43,15 +53,22 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=himanshu-developer-17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    alt="Himanshu's GitHub Stats"
+  />
+</p>
 
 <p align="center">
   <img 
@@ -62,61 +79,22 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-developer-17&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-developer-17&theme=tokyo-night&hide_border=true&area=true" 
     alt="GitHub Contribution Graph"
   />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 What I Build
 
-<p align="left">
-
-<a href="mailto:himanshukhandelwal2008@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email"
-  />
-</a>
-
-<a href="https://linkedin.com/in/himanshu-khandelwal-3664b9428">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/himanshu-developer-17">
-  <img 
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
----
-
-## 💡 Developer Quote
-
-> **"Code. Learn. Build. Repeat."**
-
----
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=himanshu-developer-17&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="Profile Views"
-  />
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
-
-
+```text
+Frontend        → React.js • JavaScript • HTML • CSS
+Backend         → Node.js • Express.js • PHP
+Database        → MySQL • SQL
+Development     → REST APIs • Responsive UI • Web Applications
+Tools           → Git • GitHub • VS Code • Postman • npm
