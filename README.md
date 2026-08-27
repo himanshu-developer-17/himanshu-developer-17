@@ -12,12 +12,11 @@
   <a href="https://github.com/himanshu-developer-17">
     <img src="https://komarev.com/ghpvc/?username=himanshu-developer-17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/himanshu-developer-17">
     <img src="https://img.shields.io/github/followers/himanshu-developer-17?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
+
   <a href="https://github.com/himanshu-developer-17">
     <img src="https://img.shields.io/github/stars/himanshu-developer-17?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
   </a>
