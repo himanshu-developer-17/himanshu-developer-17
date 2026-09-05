@@ -99,7 +99,7 @@ Database        → MySQL • SQL
 Development     → REST APIs • Responsive UI • Web Applications
 Tools           → Git • GitHub • VS Code • Postman • npm
 
-.is ma update karo
+
 
 
 
