@@ -68,34 +68,17 @@ I'm a **Full Stack Software Developer** passionate about building modern, respon
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=himanshu-developer-17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-alt="Himanshu's GitHub Stats"
-/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu-developer-17&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Himanshu's GitHub Statistics" /> </p>
 
-<p align="center">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-developer-17&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-</p>
+🔥 GitHub Streak
 
----
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=himanshu-developer-17&theme=tokyonight&hide_border=true" alt="Himanshu's GitHub Streak" /> </p>
 
-## 📈 Contribution Graph
+📈 Contribution Graph
 
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-developer-17&theme=tokyo-night&hide_border=true&area=true"
-alt="GitHub Contribution Graph"
-/>
-</p>
-
----
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-developer-17&theme=tokyo-night&hide_border=true&area=true" alt="Himanshu's Contribution Graph" /> </p>
 
 ## 🚀 What I Build
 
