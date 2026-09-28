@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Khandelwal</h1>
- 
+
 <h3 align="center">
 🚀 Full Stack Software Developer | JavaScript • React • Node.js • PHP • SQL
 </h3>
@@ -43,25 +43,25 @@ I'm a **Full Stack Software Developer** passionate about building modern, respon
 
 ### 🎨 Frontend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🔧 Tools & Technologies
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
@@ -94,7 +94,7 @@ I'm a **Full Stack Software Developer** passionate about building modern, respon
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-developer-17&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Himanshu's Top Languages"
+    alt="Himanshu's Most Used Languages"
   />
 </p>
 
@@ -119,17 +119,3 @@ Backend         → Node.js • Express.js • PHP
 Database        → MySQL • SQL
 Development     → REST APIs • Responsive UI • Web Applications
 Tools           → Git • GitHub • VS Code • Postman • npm
-
-
-
-
-
-
-
-
-
-
-
-
-
-
