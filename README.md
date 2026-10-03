@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Khandelwal</h1>
  
-<h3 align="center">
+<h3 align="center"> 
 🚀 Full Stack Software Developer | JavaScript • React • Node.js • PHP • SQL
 </h3>
 
